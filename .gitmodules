@@ -1,0 +1,3 @@
+[submodule "Assets/Core/Tri-Inspector"]
+	path = Assets/Core/Tri-Inspector
+	url = git@github.com:codewriter-packages/Tri-Inspector.git
