@@ -6,7 +6,7 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.poetools.core": {
+    "com.poetools": {
       "version": "file:poetools",
       "depth": 0,
       "source": "embedded",
