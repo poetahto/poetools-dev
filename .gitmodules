@@ -1,3 +1,9 @@
-[submodule "Assets/Core/Tri-Inspector"]
-	path = Assets/Core/Tri-Inspector
+[submodule "Packages/poetools"]
+	path = Packages/poetools
+	url = git@github.com:poetahto/poetools.git
+[submodule "Packages/Tri-Inspector"]
+	path = Packages/Tri-Inspector
 	url = git@github.com:codewriter-packages/Tri-Inspector.git
+[submodule "Packages/ParrelSync"]
+	path = Packages/ParrelSync
+	url = git@github.com:VeriorPies/ParrelSync.git
