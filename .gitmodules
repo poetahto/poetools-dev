@@ -4,6 +4,3 @@
 [submodule "Packages/Tri-Inspector"]
 	path = Packages/Tri-Inspector
 	url = git@github.com:codewriter-packages/Tri-Inspector.git
-[submodule "Packages/ParrelSync"]
-	path = Packages/ParrelSync
-	url = git@github.com:VeriorPies/ParrelSync.git
