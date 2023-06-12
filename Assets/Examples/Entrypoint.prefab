@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8458893509295568713}
   - component: {fileID: 8458893509295568712}
-  - component: {fileID: 1371322597980591849}
   m_Layer: 0
   m_Name: Entrypoint
   m_TagString: Untagged
@@ -45,23 +44,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firstScene: Assets/Examples/rtcsg/rtcsg.unity
---- !u!114 &1371322597980591849
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8458893509295568710}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc0ecc71ec1b405e8339690764e8f3f7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tagLookup:
-    dictionary:
-    - key: {fileID: 2100000, guid: ca37785d773692b47bd7339c9dd802ce, type: 2}
-      value: {fileID: 11400000, guid: bf417651f7f20a24aa11ece190fbb75b, type: 2}
-    - key: {fileID: 2100000, guid: e3274ae82df1ef74e818b625c884bdcf, type: 2}
-      value: {fileID: 11400000, guid: 0299d4720cee2e447961b49346f97772, type: 2}
-    - key: {fileID: 2100000, guid: 2a0629e3746cec946895934a7dbdfa35, type: 2}
-      value: {fileID: 11400000, guid: 2925f4ad03e15de41b19708d9f4387dd, type: 2}
