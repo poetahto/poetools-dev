@@ -440,6 +440,7 @@ MonoBehaviour:
   steadyBase: {fileID: 6724088819783071708}
   groundCheck: {fileID: 6724088818120644327}
   crouchingCollider: {fileID: 6724088819540108794}
+  parent: {fileID: 6724088818120644324}
   automaticallyProvideInput: 1
   crouchKey: 304
 --- !u!114 &6724088818120644325
@@ -527,6 +528,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  grabber: {fileID: 6724088818120644248}
 --- !u!114 &6724088818120644326
 MonoBehaviour:
   m_ObjectHideFlags: 0
